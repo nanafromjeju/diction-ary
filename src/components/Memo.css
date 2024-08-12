@@ -1,10 +1,16 @@
 .memo .memo-title,
 .memo .memo-subtitle {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
   font-size: 30px;
   font-family: "Times New Roman", Times, serif;
   color: #5b3d21;
 }
 .memo .memo-text {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;
   color: #5b3d21;
