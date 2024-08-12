@@ -1,5 +1,4 @@
-import "../src/App.css";
-import HorizonLine from "./components/HorizonLine";
+import HorizonLine from "./HorizonLine";
 
 function Memo() {
   return (

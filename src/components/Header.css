@@ -40,16 +40,3 @@
   color: #b0a695;
   font-size: 18px;
 }
-
-.memo .memo-title,
-.memo .memo-subtitle {
-  font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
-  color: #5b3d21;
-}
-.memo .memo-text {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
-  color: #5b3d21;
-  white-space: pre-wrap;
-}

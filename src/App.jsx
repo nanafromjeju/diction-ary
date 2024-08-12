@@ -1,6 +1,8 @@
 import Header from "./components/Header";
-import Memo from "./Memo";
+import Memo from "./components/Memo";
 import HorizonLine from "./components/HorizonLine";
+import "./components/Header.css";
+import "./components/Memo.css";
 
 function App() {
   const appStyle = {
