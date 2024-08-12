@@ -1,0 +1,55 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.header-title {
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+.header-controls {
+  display: flex;
+  align-items: center;
+}
+
+.hamburger-menu {
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: #b0a695;
+  margin: 3px 0;
+}
+
+.search-input {
+  padding: 5px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.header .header-title {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+  color: #b0a695;
+  font-size: 18px;
+}
+
+.memo .memo-title,
+.memo .memo-subtitle {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  color: #5b3d21;
+}
+.memo .memo-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  color: #5b3d21;
+  white-space: pre-wrap;
+}
